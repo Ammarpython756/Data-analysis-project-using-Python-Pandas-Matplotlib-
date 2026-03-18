@@ -1,0 +1,7 @@
+date,customer,product,quantity,price
+2023-01-01,Ali,Laptop,1,1200
+2023-01-02,Sara,Phone,2,800
+2023-01-03,Omar,Tablet,1,500
+2023-02-01,Ali,Phone,1,800
+2023-02-05,Sara,Laptop,1,1200
+2023-03-10,Omar,Tablet,2,500
