@@ -24,6 +24,11 @@ The project generates:
 - Cleaned dataset
 - Revenue analysis
 - Visual charts
+- ## Key Insights
+
+- The highest revenue comes from Laptop sales
+- Sara is the top customer by revenue
+- Revenue increased in February compared to January
 
 ## Author
-Your Name
+Ammar Ali
