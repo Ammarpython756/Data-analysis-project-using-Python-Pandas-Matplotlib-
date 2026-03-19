@@ -2,18 +2,15 @@ import pandas as pd
 
 
 def load_data(file_path):
-    """Load CSV data"""
     df = pd.read_csv(file_path)
     return df
 
 
 def clean_data(df):
-    """Clean dataset"""
-    
     # Remove duplicates
     df = df.drop_duplicates()
 
-    # Handle missing values
+    # Remove missing values
     df = df.dropna()
 
     # Convert date column to datetime
@@ -23,7 +20,6 @@ def clean_data(df):
 
 
 def save_data(df, output_path):
-    """Save cleaned data"""
     df.to_csv(output_path, index=False)
 
 
