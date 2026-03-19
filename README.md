@@ -1,2 +1,29 @@
-# Data-analysis-project-using-Python-Pandas-Matplotlib-
-and visualization graphs using Python.
+# Sales Data Analysis Project
+
+## Overview
+This project analyzes sales data using Python.
+
+## Features
+- Data cleaning using pandas
+- Data analysis (revenue by product and customer)
+- Data visualization باستخدام matplotlib
+
+## Project Structure
+- data/raw → original data
+- data/processed → cleaned data
+- src → python scripts
+- outputs → charts
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## Results
+The project generates:
+- Cleaned dataset
+- Revenue analysis
+- Visual charts
+
+## Author
+Your Name
